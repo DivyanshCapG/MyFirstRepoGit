@@ -1,2 +1,3 @@
-Vivekanand Bhavan
-Savarkar Bhavan
+Vivekanand Bhavan 120
+Savarkar Bhavan 110
+LaxmiBai Bhavan 90
